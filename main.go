@@ -17,14 +17,14 @@ import (
 
 	"runtime"
 
-	"github.com/claudetech/loggo"
-	. "github.com/claudetech/loggo/default"
-	"github.com/plexdrive/plexdrive/chunk"
-	"github.com/plexdrive/plexdrive/config"
-	"github.com/plexdrive/plexdrive/drive"
-	"github.com/plexdrive/plexdrive/mount"
-	flag "github.com/spf13/pflag"
-	"golang.org/x/sys/unix"
+	"https://github.com/claudetech/loggo"
+	. "https://github.com/claudetech/loggo/default"
+	"https://github.com/plexdrive/plexdrive/chunk"
+	"https://github.com/plexdrive/plexdrive/config"
+	"https://github.com/plexdrive/plexdrive/drive"
+	"https://github.com/plexdrive/plexdrive/mount"
+	flag "https://github.com/spf13/pflag"
+	"https://golang.org/x/sys/unix"
 )
 
 var Version = "%VERSION%"
